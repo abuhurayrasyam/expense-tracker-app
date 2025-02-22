@@ -1,0 +1,67 @@
+.select-container {
+    padding-left: 25px;
+  }
+  
+  .form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 20px;
+    padding-top: 25px;
+  }
+  
+  .form-container label {
+    font-weight: bold;
+    margin-right: 5px;
+  }
+  
+  input[type="text"],
+  input[type="number"],
+  select,
+  button {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  input[type="text"],
+  input[type="number"] {
+    width: 200px;
+  }
+  
+  select {
+    padding-left: 25px;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .table th, .table td {
+    text-align: center;
+  }
+  
+  .text-success {
+    color: green;
+  }
+  
+  .text-danger {
+    color: red;
+  }
+  
+  .fw-bold {
+    font-weight: bold;
+  }
+  
+  .no-transactions {
+    padding-left: 25px;
+  }
+  
