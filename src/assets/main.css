@@ -35,14 +35,14 @@
   }
   
   button {
-    background-color: #007bff;
+    background-color: #01581b;
     color: white;
     border: none;
     cursor: pointer;
   }
   
   button:hover {
-    background-color: #0056b3;
+    background-color: #079df5;
   }
   
   .table th, .table td {
